@@ -1,0 +1,2 @@
+DID_algorithm:BPDID.cpp miracl/bn_pair.cpp miracl/zzn12a.cpp miracl/ecn2.cpp miracl/zzn4.cpp miracl/zzn2.cpp miracl/big.cpp miracl/zzn.cpp miracl/ecn.cpp miracl/miracl.a
+	g++-9 -o DID_algorithm BPDID.cpp miracl/bn_pair.cpp miracl/zzn12a.cpp miracl/ecn2.cpp miracl/zzn4.cpp miracl/zzn2.cpp miracl/big.cpp miracl/zzn.cpp miracl/ecn.cpp miracl/miracl.a
