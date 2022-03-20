@@ -1,4 +1,4 @@
-# BPDID
+# PDMRB
 
 ## NOTE
 - replace the miracl lib with yours in the `./miracl` dir 
